@@ -5,3 +5,5 @@
     - name: Hello Message
       debug:
         msg: "Hello World!"
+    - name: Ping Servers
+      ping:
